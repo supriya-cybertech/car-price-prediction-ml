@@ -88,7 +88,8 @@ The architecture of the Car Price Prediction System follows a structured machine
 
 ----
 
-🤝 Contact
+**🤝 Contact**
+
 Platform	Link
 - Github: [Supriya-cybertech](https://github.com/supriya-cybertech)
 - LinkedIn	[Supriya Kumari](https://www.linkedin.com/in/supriya-kumari15/)
