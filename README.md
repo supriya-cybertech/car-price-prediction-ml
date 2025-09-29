@@ -3,7 +3,8 @@
 	Predicting used car prices using machine learning to empower buyers, sellers, and dealerships with data-driven insights.
 
 🔹Project Overview
-This project analyzes used car data and builds a predictive model to estimate car prices. Key features include:
+This project analyzes used car data and builds a predictive model to estimate car prices. 
+Key features include:
 	• Brand / Make
 	• Model
 	• Year of Manufacturing
