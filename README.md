@@ -1,5 +1,15 @@
 **🚗 Car Price Prediction Using Machine Learning**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-CB3B27?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-437CCF?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-blue?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 Predicting used car prices using machine learning to empower buyers, sellers, and dealerships with data-driven insights.
 
 ---
